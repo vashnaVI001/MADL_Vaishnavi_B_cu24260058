@@ -10,3 +10,7 @@ All six MADL lab-sheet repositories:
 4. [Lab Sheet 4](https://github.com/vashnaVI001/BCA-MADL-lab--sheet-4)
 5. [Lab Sheet 5](https://github.com/vashnaVI001/BCA-MADL-lab--sheet-5)
 6. [Lab Sheet 6](https://github.com/vashnaVI001/BCA-MADL-lab--sheet-6)
+7. [Lab Sheet 7](https://github.com/vashnaVI001/BCA-MADL-lab--sheet-7)
+8. [Lab Sheet 8](https://github.com/vashnaVI001/BCA-MADL-lab--sheet-8)
+9. [Lab Sheet 9](https://github.com/vashnaVI001/BCA-MADL-lab--sheet-9)
+10. [Lab Sheet 10](https://github.com/vashnaVI001/BCA-MADL-lab--sheet-10)
